@@ -16,6 +16,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
 
 ---
 
