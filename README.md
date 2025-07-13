@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm José Abel Sandoval Castro
 
 🎓 Software Technology   
-🌿 Farmer in my spare time | 💻 Passionate web developer  
+🌿 Learn in my free time| 💻 Passionate web developer  
 🚀 Currently working on **MenuMastery**, a restaurant management system
 
 ---
