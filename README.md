@@ -30,7 +30,7 @@
 
 ## 📫 Contact
 - 📧 **Email:** joseabelsandovalcastro67@gmail.com  
-- 📸 **Instagram:** [jose sandoval](https://www.instagram.com/jose%20sandoval) *(Double-check if the username has spaces; URLs don't allow them)*
+- 📸 **Instagram:** [jose sandoval](https://www.instagram.com/@joseabelsandovalcastro) 
 
 ---
 
